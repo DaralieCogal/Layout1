@@ -1,0 +1,47 @@
+STYLE.CSS
+
+body{
+    background-color: hsl(208, 100%, 97%);
+}
+h3{
+    font-family: 'Montserrat';
+}
+.cor{
+    font-family: Montserrat;
+    font-size: 20px;
+    color: #3656c0;
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: justify;
+    font-weight: 500;
+    color: #808080;
+}
+ul{
+    list-style: none;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: bold;
+    font-size: 15px;
+    padding-left: 0;
+}
+.res{
+    color: #ec610a;
+}
+.whi{
+    font-weight: lighter;
+    color: rgb(188, 186, 183);
+}
+li{
+    display: inline;
+}
+img{
+    width: 100%;
+    max-width: 100px;
+    object-fit: cover;
+    vertical-align: middle;
+    float: right;
+    padding-left: 30px;
+
+}
